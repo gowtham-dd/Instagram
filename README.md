@@ -68,7 +68,7 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 2. **Clone your fork**:
    ```bash
-   git clone https://github.com/yourusername/instagram_clone.git
+    git clone https://github.com/gowtham-dd/instagram_clone.git
    ```
 
 
