@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDvhua8saPw1WH4VAdePLF7AoR7RwhhZmA',
+    apiKey: 'your - api - here',
     appId: '1:167400934834:web:e3046e038154729c1e68ab',
     messagingSenderId: '167400934834',
     projectId: 'instagram-7555e',
@@ -53,7 +53,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD0u8URoHnkyjjyT2eeCJoXa1Yv12EevWw',
+    apiKey: 'your - api - here',
     appId: '1:221951397474:android:b777dc2457ce435dc34b3b',
     messagingSenderId: '221951397474',
     projectId: 'instagram-clone-ae237',
@@ -61,7 +61,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDoalhz5PRCAAiZEs2o-jrcvDBsUJzwzYA',
+    apiKey: 'your - api - here',
     appId: '1:221951397474:ios:4966cd87dc16c04fc34b3b',
     messagingSenderId: '221951397474',
     projectId: 'instagram-clone-ae237',
@@ -70,7 +70,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBlPS99WXA_v15pkf1OGHkT2t2BKqptnp4',
+    apiKey: 'your - api - here',
     appId: '1:167400934834:ios:47fda3080c2ba3531e68ab',
     messagingSenderId: '167400934834',
     projectId: 'instagram-7555e',
