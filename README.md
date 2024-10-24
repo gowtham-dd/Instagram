@@ -1,5 +1,4 @@
 
-```markdown
 # 📸 Instagram Clone with Flutter & Firebase
 
 Welcome to the Instagram Clone project! This is a simple yet powerful clone of the popular photo-sharing app Instagram, built using Flutter and Firebase. This project aims to demonstrate how to build a social media application with user authentication, image uploads, and real-time database functionalities.
@@ -28,7 +27,7 @@ Make sure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/instagram_clone.git
+   git clone https://github.com/gowtham-dd/instagram_clone.git
    ```
 
 2. **Navigate to the project directory**:
