@@ -83,7 +83,7 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 ## 📧 Contact
 
-For any questions or feedback, feel free to reach out to me at [your.email@example.com](mailto:gowthamd997@gmail.com).
+For any questions or feedback, feel free to reach out to me at [EMAIL](mailto:gowthamd997@gmail.com).
 
 ---
 
